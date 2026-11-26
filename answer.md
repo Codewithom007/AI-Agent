@@ -33,14 +33,19 @@ For a real cluster, use its registry and a trusted certificate issuer, increase 
 
 Python, YAML and Bash syntax were checked. Live deployment still needs to be tested with Docker and Kind.
 
+## Docker Repo Hello
 ![Docker Repo Hello, Mirror](<Solution_Screenshots/Docker Repo.png>)
 
+## Terminal Output
 ![Terminal Output](Solution_Screenshots/Terminal_Output.png)
 
+## Kubernetes object check Terminal
 ![Kubernetes object check Terminal](<Solution_Screenshots/Kubernetes object check Terminal.png>)
 
+## Hello Application
 ![Hello Application](<Solution_Screenshots/Hello Application.png>)
 
+## Mirror Application
 ![Mirror Application](<Solution_Screenshots/Mirror Application.png>)
 
 ## By- Om Bhagat
